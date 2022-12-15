@@ -1,2 +1,4 @@
 # SharpJson
-the fastest and best json serialize library base pure c# implment.
+
+
+the fastest and best json serialize library based pure c# implement.
